@@ -1,0 +1,26 @@
+section{
+    background-color: rgb(234, 6, 6);
+    color: black;
+    margin: 100px;
+    padding: 50px;
+}
+img{width: 8cm;
+    height: 3cm;
+}
+.header-1{
+    color: brown;
+}
+.ball{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+#bouncing{
+    position: absolute;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}

@@ -1,0 +1,22 @@
+body{
+    font-family: arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+input[type="text"]{
+    padding: 8px;
+    font-size: 16px;
+}
+button{
+    padding: 8px;
+    font-size: 16px;
+    background-color: rgb(110, 163, 146);
+    color: rgb(102, 46, 46);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(22,2,27)
+    
+}
